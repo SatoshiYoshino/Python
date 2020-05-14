@@ -7,3 +7,7 @@ https://qiita.com/ozaki_physics/items/985188feb92570e5b82d
 
 tensorfrowシステム要件
 https://www.tensorflow.org/install/pip?hl=ja
+
+tensorflowをanacondaで使うときは、conda install tensorflow　でインストールする。
+pipでインストールするとエラーになる
+
