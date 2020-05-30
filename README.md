@@ -1,7 +1,7 @@
-### Pythonのトレーニング用リポジトリです。
+### Pythonのトレーニング用リポジトリ
 
 #### tensorfrow環境設定
-numpy 1.16ではcaffeが動作しないため、numpy 1.15を使いたい場合に対応するtensorflowのバージョンは1.12を使う
+numpy 1.16ではcaffeが動作しないため、numpy 1.15を使いたい場合に対応するtensorflowのバージョンは1.12を使用
 
 TensorFlow 1.12
 scikit-learn 0.20.0
