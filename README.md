@@ -12,3 +12,10 @@ numpy 1.15.4
 バージョンを指定したインストールは下記のコマンド
 conda install numpy==1.15
 conda install tensorflow==1.12
+
+
+### MeCab設定参考URL
+https://murabitoleg.com/mac-mecab/
+
+mecab-ipadic-NEologdのインストール
+https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md
