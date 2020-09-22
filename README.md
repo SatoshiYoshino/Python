@@ -21,6 +21,7 @@ mecab-ipadic-NEologdのインストール
 https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md
 
 ### HomeBrewの最新版をインストールしてから、MeCab設定を行ったらインストールができた
+
 HomeBrewがインストールされていてかつ最新版出ないとMeCab＋mecab-ipadic-neologdがインストールできなかった
 
 neologd/mecab-ipadic-neologd - GitHub
